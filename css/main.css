@@ -1,0 +1,14 @@
+body {
+	background-color: #000;
+	text-align: center;
+}
+
+h2 {
+	color: #fff;
+}
+
+#canvasGame {
+		background-color: #fff;
+		width: 800px;
+		height: 500px;
+}
